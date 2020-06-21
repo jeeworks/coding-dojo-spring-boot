@@ -1,0 +1,11 @@
+version: '2'
+services:
+    db:
+        image: "postgres:13"
+        container_name: "weather_postgres"
+        ports:
+            - "5432:5432"
+        environment:
+            - POSTGRES_USER=admin
+            - POSTGRES_PASSWORD=12345
+            - POSTGRES_DB=weather_db
