@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 The weather app requests its data from [OpenWeather](https://openweathermap.org/) and stores the result in a database.
 
