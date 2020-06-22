@@ -23,6 +23,8 @@ Go to the 'docker' folder. In the folder run the following command:
 * Database password: 12345
 * Database name weather_db
 
+Create the weather table with the schema.sql file. That can be found in src/main/resources/data/
+
 Generate a OpenWeather API key on [OpenWeather Sign up](https://openweathermap.org/appid) page.
 
 Store the api key as environment variable: OPEN_WEATHER_APP_ID
