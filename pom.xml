@@ -18,7 +18,7 @@
         <java.version>11</java.version>
         <lombok.version>1.18.12</lombok.version>
         <mapstruct.version>1.3.0.Final</mapstruct.version>
-        <postgresql.version>42.2.14</postgresql.version>
+        <postgresql.version>42.4.1</postgresql.version>
         <assertj.version>3.16.1</assertj.version>
         <mockito.version>3.3.3</mockito.version>
         <h2.version>1.4.199</h2.version>
